@@ -7,7 +7,7 @@
 
 ---
 
-# FiveM Basic Flares | [Documentation](https://docs.trusted-studios.eu/FiveM/basic-flares)
+# FiveM Basic Flares | [Documentation](https://docs.trusted-studios.eu/fivem/basic-flares)
 
 "Basic Flares" is a FiveM script that allows aircraft and helicopters to deploy countermeasures. These flares divert incoming enemy missiles, enhancing the survival chances of the aircraft by disrupting target locking. This script adds to the dynamics of aerial combat and enriches gameplay within FiveM.
 
